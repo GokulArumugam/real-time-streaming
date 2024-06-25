@@ -67,4 +67,4 @@ python spark-streaming.py
 ```bash
 streamlit run streamlit-app.py
 ```
-
+### NOTE: This project was built as a portfolio project and is currently not under maintenance.
